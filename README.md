@@ -1,5 +1,6 @@
 # kasir
-Program Kasir Restoran
+Program Kasir Restoran menggunakan switch
+Author by : Awal Ramadhan
 
 **CARA MENJALANKAN PERINTAH**
 1.apt update && apt upgrade
